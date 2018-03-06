@@ -15,4 +15,13 @@ github.com/snow-flake/sandbox
         ...
             IDK?  All the good stuff!
 
+    app/monero_nanopool_client/
+        websocket_client.go
+            Websocket client for Monero Nanopool
+
 ```
+
+
+## Apps:
+1. [Monero Nanopool Client](./MONERO_NANOPOOL_CLIENT.md)
+
